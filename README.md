@@ -12,6 +12,7 @@ Vulkan is a low-level, explicit, cross-platform graphics and compute API that pr
 Before starting this journey we need to create setup
 
 **Linux**
+
 Run the following command to install dependencies on Linux:
 ./scripts/install_dependencies_linux.sh
 
@@ -19,6 +20,7 @@ This script detects your package manager (apt, dnf, pacman) and installs the req
 It also provides instructions for installing the Vulkan SDK.
 
 **Windows**
+
 Run the following command to install dependencies on Windows:
 scripts\install_dependencies_windows.bat
 
