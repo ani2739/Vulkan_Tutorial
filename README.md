@@ -1,4 +1,4 @@
-Vulkan Tutorial 🚀
+**Vulkan Tutorial 🚀**
 
 A step-by-step journey into modern low-level graphics programming using Vulkan
 
